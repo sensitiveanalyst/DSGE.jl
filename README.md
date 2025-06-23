@@ -68,7 +68,7 @@ isdefined(Base, :__precompile__) && __precompile__(true)
 
 ## Citing DSGE.jl
 
-DSGE.jl (Version 1.2.1)[Source code], https://github.com/PSLmodels/DSGE.jl
+DSGE.jl (Version 1.3.0)[Source code], https://github.com/FRBNY-DSGE/DSGE.jl
 
 Disclaimer
 ------
